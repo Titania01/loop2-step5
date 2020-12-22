@@ -11,17 +11,17 @@
   background-size: cover;
   background-position: center;
   height: 100vh;
-  /* width: 80vw; */
-  /* margin: 5rem auto; */
 }
 
 .up {
   width: 4rem;
   height: 5rem;
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   flex-direction: column;
-  /* margin-left: -10rem; */
-  place-items: center;
   justify-content: center;
+}
+
+.one {
+  color: #ffffff;
 }
