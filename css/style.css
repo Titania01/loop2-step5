@@ -10,3 +10,11 @@ html,
 body {
   background-color: #000000;
 }
+
+.container {
+  background-image: url(../media/background.jpg);
+  background-size: cover;
+  height: 80vh;
+  width: 80vw;
+  margin: 5rem auto;
+}
