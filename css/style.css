@@ -20,8 +20,19 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  padding-top: 2rem;
 }
 
 .one {
   color: #ffffff;
+}
+
+.down {
+  width: 4rem;
+  height: 48rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+  /* padding-bottom: -5rem; */
 }
