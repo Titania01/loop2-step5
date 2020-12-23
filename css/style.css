@@ -45,7 +45,7 @@
   height: 100vh;
   width: 44rem;
   opacity: 0.9;
-  /* transform: skewY(-45deg); */
+  clip-path: polygon(36% 0, 100% 0, 100% 100%, 0% 100%);
 }
 
 .read {
