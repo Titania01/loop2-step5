@@ -51,4 +51,11 @@
 .read {
   display: flex;
   align-items: center;
+  padding-top: 1rem;
+  justify-content: flex-end;
+  padding-right: 1.5rem;
+}
+
+.more {
+  padding-left: 1rem;
 }
