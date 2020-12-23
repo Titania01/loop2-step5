@@ -77,3 +77,16 @@
 .don {
   margin-right: -2rem;
 }
+
+.eye {
+  display: flex;
+  align-items: center;
+  padding-top: 3rem;
+  justify-content: flex-end;
+  padding-right: 1.5rem;
+}
+
+.time {
+  font-weight: 600;
+  padding-left: 0.5rem;
+}
