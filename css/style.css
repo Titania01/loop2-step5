@@ -62,7 +62,12 @@
 
 .number {
   margin-left: 26rem;
-  margin-top: 30rem;
+  margin-top: 28rem;
+}
+
+.two {
+  font-size: 70px;
+  margin-left: 13rem;
 }
 
 .word2 {
